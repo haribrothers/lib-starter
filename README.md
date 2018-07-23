@@ -18,7 +18,8 @@ This starter prepares 2 different types of builds of your lib
 * **UMD**
   * this is a bundle of ES5 code. What you would typically get from webpack or rollup.
 
-The build system generates AOT metadata too, so you're good.
+The build system generates AOT metadata too, so you're good.helloooo there is a change
+
 
 
 ## Scripts
